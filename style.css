@@ -1,0 +1,91 @@
+.bac{
+    background: #F6F3D8;
+    width: 1600px;
+    height: 1200px;
+    backdrop-filter: bl
+}
+.back {
+    position: absolute;
+    width: 1466px;
+    height: 1073px;
+    background:#FFFEF6;
+    left: 67px;
+    top: 63px ;
+    display: flex;
+    flex-direction: row;
+}
+.se{
+    width: 750px;
+    height: 1101px;
+    
+}
+.sec{
+ background-image: url(imagges/full\ boddy.png);
+ background-repeat: no-repeat;
+ background-size: 716px 1101px;
+ width: 716px;
+ height: 1101px;
+
+}
+.btn{
+    position: absolute;
+    margin-left: 470px;
+    margin-top: 70px;
+    height: 75px;
+    width: 195px;
+    background: none;
+    border-radius: 10px;
+    font-size: 0px;
+}
+.btn:hover{
+    background-color: blue;
+    color: yellow;
+    font-size: 30px;
+    cursor: pointer;
+
+    
+}
+.bird:hover{
+    cursor: pointer;
+    background-color: yellow;
+}
+.naver{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
+    margin-top: 60px;
+}
+.hr:hover{
+    cursor: pointer;
+    background-color: red;
+    border-radius: 30px;
+}
+.ci {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-style: solid;
+    border-width: 3px;
+    width: 571px;
+    height: 71px;
+    align-items: center;
+    background-color: white;
+    border-radius: 20px;
+    border-color: #01D98B;
+    margin-top: 100px;
+    margin-left: 80px;
+    
+}
+.b:hover{
+    opacity: 0.2;
+    cursor: pointer;
+}
+
+.imgg {
+    height: 280px;
+    width: 335px;
+    margin-left: -65px;
+    margin-top: 90px;
+}
